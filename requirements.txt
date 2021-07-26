@@ -10,4 +10,3 @@ streamlit
 pathlib
 pandas
 fastcore
-pdb
