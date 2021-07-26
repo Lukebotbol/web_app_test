@@ -1,5 +1,6 @@
 fastai>=2.4
 transformers>=4.6
+ohmeow-blurr == 0.0.32 
 ipykernel
 datasets
 sentencepiece
@@ -8,7 +9,5 @@ rouge-score
 streamlit
 pathlib
 pandas
-pickle
-blurr
 fastcore
 pdb
