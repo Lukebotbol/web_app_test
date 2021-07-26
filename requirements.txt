@@ -8,7 +8,6 @@ rouge-score
 streamlit
 pathlib
 pandas
-random
 pickle
 blurr
 fastcore
